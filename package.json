@@ -36,6 +36,7 @@
     "playwright": "1.49.0"
   },
   "dependencies": {
-    "@vite-electron-builder/main": "*"
+    "@vite-electron-builder/main": "*",
+    "systeminformation": "^5.25.11"
   }
 }
